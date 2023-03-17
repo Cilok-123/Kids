@@ -59,7 +59,7 @@ let allMusic = [
     id: "song-5",
     name: "Runtah Remix Ft Imp ID",
     artist: "Azmy Z",
-    img: "https://img.youtube.com/vi/lAIdX9Rv3Rk/default.jpg",
+    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCmyTP8e5zxZ-N7x2YGoUYAY1aRBLD8nCzmaZJZ5fyjvJvBM949pVHnjwF1psRzk0XTsvEytr3staQAxusRFeBhc-g0mE3oDbcAwC-9OBMHXif7wGpeAzmYdYFzWlqWC_Khs8kMekzvloMPGyR5x-s4TWoVfUJZ3W8yl1sx7IQ8_d2ifpyOoFaPCZKKg/s320/Runtah.png",
     src: "https://github.com/MusicEnjoy/Random/raw/main/RUNTAH%20REMIX%20BY%20AZMY%20Z%20FT%20IMP%20ID%20%23azmyz%20%23runtah%20%23lagusunda.mp3"
 },
   
