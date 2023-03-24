@@ -127,7 +127,7 @@ src: "https://github.com/MusicEnjoy/Random/raw/main/TIARA%20-%20KRIS%203PB%20SAL
 
 {
  id: "song-10",
- name: "Dj Gala - Gala Cek Sound",
+ name: "Dj Gala - Gala",
  artist: "R2 PROJECT",
  img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi15TUv0-TzgVTSGwOKhmf5f8aCzz-pDEBVrRBe4yZnKNWCiojNtJppqrFALx-rOTDdH297K0Mb1gHNfZWVXS_UPZaa9-hjl3C1sjPymN6NtVYWvk66ZKraeqs5mHDn4ajD57g01S2CkZLacuoZF5HGUTNQ_eEcAfjSoJT3WyHHQ6w1tpQ9PqMVAXKQkQ/s320/GALA%20-%20GALA.png",
  src: "https://github.com/MusicEnjoy/cek-sound/raw/main/DJ%20GALA-GALA%20BY%20R2%20PROJECT%20SLOW%20BASS.%20NDEWOR%20AUDIO.mp3"
@@ -141,7 +141,7 @@ src: "https://github.com/MusicEnjoy/Random/raw/main/TIARA%20-%20KRIS%203PB%20SAL
 
 {
  id: "song-11",
- name: "Dj Pong - Pong Cek Sound",
+ name: "Dj Pong - Pong",
  artist: "Raditya Sound System Kediri",
  img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJNDoFS6SxXPmtFG4fQqsO_iEocqJpZD7dg5oNHVEvHOHYmoGKoytzn8PdEDnErXPCM5NZ9RXyeqybKfCmEbCklu_3KbGhAztgi9hXre8u-VhPUViNCs8-xoyak6JNj8gTDx_52bBWY-Xf5Wpf4jGHBFe3yDZDRDB2qoDXcctB7-O4_k_yd1assAr2nw/s320/PONG%20-%20PONG.png",
  src: "https://github.com/MusicEnjoy/cek-sound/raw/main/DJ%20PONG%20PONG%20SELOW%20X%20JEDOR%20ENAK%20BUAT%20CEK%20SOUND%20JINGLE%20RADITYA%20PRO%20LIGTING%20%F0%9F%8E%B5%F0%9F%8E%B5.mp3"
@@ -155,7 +155,7 @@ src: "https://github.com/MusicEnjoy/Random/raw/main/TIARA%20-%20KRIS%203PB%20SAL
 
 {
  id: "song-12",
- name: "Dj Slebew Cek Sound",
+ name: "Dj Slebew",
  artist: "Dj Alengka - Topik",
  img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM_DYxofsP5s3Wz-AOnKAPeXdaDgFeB0Ke3uNUMO5jEuqTW7P8Kbiqnicr3YJijI6o24rqZsqV-gwCtss-T0g24vaIhx14mqDE2agkZUHBorNcbBSwkLoMdEpEIHwx8tDmPQ42Rfn2hQ7La8hbUaYz7ck6H3_KvzAO8lkaDOr5fv9XCoYzNG-Fmq0eIQ/s320/Slebew.png",
  src: "https://github.com/MusicEnjoy/cek-sound/raw/main/Slebew.mp3"
@@ -183,7 +183,7 @@ src: "https://github.com/MusicEnjoy/Random/raw/main/TIARA%20-%20KRIS%203PB%20SAL
 
 {
  id: "song-14",
- name: "Dj Kutidhieng Cek Sound",
+ name: "Dj Kutidhieng",
  artist: "Geger Music MultiMedia",
  img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfskczy0RU39CyEh4wTZlSYCWXy4BS0JR_kaf0iDIVB_0yokCJJrnwOHbRh4vI_FTLJIgG4J2g6kgeE_EjvdfRdfXWLvjiDVGeDs4t18KgHAOmA3qYadNeG_4w0uIeqKTYUyGOjfJ4o-A2gIq50o8cBwlBJrQXBjXYMB1FnPzUvdCm0NhgsCeIiC2GQQ/s320/Kutidhieng.png",
  src: "https://github.com/MusicEnjoy/cek-sound/raw/main/%F0%9F%94%B4DJ%20YANG%20DI%20PAKAI%20GEGER%20MUSIC%20CEK%20SOUND%20HOOREEG%20HYDING%20TRAP%20RAGATAK%20TIYOK%20AMK.GEGER%20MUSIC%20PROB.mp3"
@@ -197,7 +197,7 @@ src: "https://github.com/MusicEnjoy/Random/raw/main/TIARA%20-%20KRIS%203PB%20SAL
 
 {
  id: "song-15",
- name: "Dj Kutidhieng Cek Sound",
+ name: "Dj Kutidhieng",
  artist: "Goprax Production",
  img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfskczy0RU39CyEh4wTZlSYCWXy4BS0JR_kaf0iDIVB_0yokCJJrnwOHbRh4vI_FTLJIgG4J2g6kgeE_EjvdfRdfXWLvjiDVGeDs4t18KgHAOmA3qYadNeG_4w0uIeqKTYUyGOjfJ4o-A2gIq50o8cBwlBJrQXBjXYMB1FnPzUvdCm0NhgsCeIiC2GQQ/s320/Kutidhieng.png",
  src: "https://github.com/MusicEnjoy/cek-sound/raw/main/DJ%20TRAP%20HAIDING%20ALA%20HAIDING%20BANTENGAN%20FULL%20BASS%20GOPRAX%20PRODUCTION.mp3"
